@@ -1,0 +1,28 @@
+.header {
+  max-height: 25px;
+  /* display: flex; */
+  gap: 30px;
+  padding: 40px 50px;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 1px solid grey;
+  box-shadow: 0px 1px 5px 0px rgba(59, 58, 58, 0.75);
+}
+
+.tabPage {
+  padding: 15px 30px;
+  font-size: 22px;
+
+  color: black;
+  border: 3px solid transparent;
+  border-radius: 10px 10px 0 0;
+  transition: all 0.3s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.tabPage.active {
+  color: brown;
+  text-decoration: none;
+}

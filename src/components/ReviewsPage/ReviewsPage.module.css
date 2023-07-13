@@ -1,0 +1,17 @@
+.authorName {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.reviewItem {
+  font-size: 16px;
+  padding-left: 30px;
+  line-height: 1.3;
+  list-style: none;
+}
+
+.notification {
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: 700;
+}

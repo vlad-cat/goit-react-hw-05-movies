@@ -1,0 +1,15 @@
+.moviesList {
+  padding-left: 30px;
+  margin-top: 100px;
+}
+
+.titleMovie {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.notification {
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: 700;
+}
